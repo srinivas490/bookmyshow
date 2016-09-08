@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  moviename: MyString
+  show: MyString
+  date: 2016-09-08
+  time: 2016-09-08 15:52:49
+  numberofseats: 1
+
+two:
+  moviename: MyString
+  show: MyString
+  date: 2016-09-08
+  time: 2016-09-08 15:52:49
+  numberofseats: 1
